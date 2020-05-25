@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca79ffb8-b86f-4cae-8a41-f8eeededa306" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y5aAJ5YfJv9Hb8GcuefNMcoXSB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="H:/7.SGBD/LAB2TEMA" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jetbrains.Main" />
+      <module name="Lab1Optional" />
+      <option name="PROGRAM_PARAMETERS" value="10000 5 Q W E R T Y U I O P A S D F G H J K L Z X C V B N M _" />
+      <option name="VM_PARAMETERS" value="-Xms4G -Xmx4G" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca79ffb8-b86f-4cae-8a41-f8eeededa306" name="Default Changelist" comment="" />
+      <created>1582234763730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582234763730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="649" y="104" key="#Main" timestamp="1582237228305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="649" y="104" key="#Main/0.0.1536.824@0.0.1536.824" timestamp="1582237228305" />
+    <state x="173" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590437571328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="173" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590437571328" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590437810992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590437810992" />
+    <state width="1493" height="364" key="GridCell.Tab.0.bottom" timestamp="1590437573290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590437573290" />
+    <state width="1493" height="364" key="GridCell.Tab.0.center" timestamp="1590437573288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590437573288" />
+    <state width="1493" height="364" key="GridCell.Tab.0.left" timestamp="1590437573287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590437573287" />
+    <state width="1493" height="364" key="GridCell.Tab.0.right" timestamp="1590437573289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590437573289" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582286902672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582286902672" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582286902672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582286902672" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582286902672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582286902672" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582286902672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582286902672" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582798965663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582798965663" />
+    <state x="209" y="33" key="new project wizard" timestamp="1582473867734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582473867734" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582239106818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582239106818" />
+  </component>
+</project>
